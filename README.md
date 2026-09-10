@@ -1,6 +1,10 @@
+[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt-BR.md)
+
 # Password Generator
 
 This repository contains a small web-based password generator that outputs two randomly generated passwords per action. The project focuses on practicing UI layout, styling, and basic JavaScript interaction logic.
+
+[**Live Demo — password-generator-three-theta-70.vercel.app**](https://password-generator-three-theta-70.vercel.app/)
 
 ---
 
