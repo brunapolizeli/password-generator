@@ -4,7 +4,7 @@
 
 Este repositório contém um pequeno gerador de senhas para web que gera duas senhas aleatórias por ação. O projeto tem como foco a prática de layout de interface, estilização e lógica básica de interação com JavaScript.
 
-[**Demo ao vivo — password-generator-three-theta-70.vercel.app**](https://password-generator-three-theta-70.vercel.app/)
+[**Demo ao vivo: password-generator-three-theta-70.vercel.app**](https://password-generator-three-theta-70.vercel.app/)
 
 ---
 
