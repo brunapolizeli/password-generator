@@ -10,7 +10,7 @@ Este repositório contém um pequeno gerador de senhas para web que gera duas se
 
 ## Visão Geral do Projeto
 
-Este é um projeto individual do Scrimba Full Stack Path. Um [design do Figma](https://www.figma.com/design/NEj9JDycMjF3XKXq7swoc9/Random-Password-Generator--New-version-?node-id=0-1&t=qcjnhnh8hwwarZhX-1) foi fornecido como referência de layout, mas o design visual foi intencionalmente modificado. Todo o HTML, CSS e JavaScript foi escrito manualmente para praticar a tradução de um design para código e a separação entre estrutura, estilo e lógica.
+Este é um projeto do Scrimba Full Stack Path. Um [design do Figma](https://www.figma.com/design/NEj9JDycMjF3XKXq7swoc9/Random-Password-Generator--New-version-?node-id=0-1&t=qcjnhnh8hwwarZhX-1) foi fornecido como referência de layout, mas o design visual foi intencionalmente modificado. Todo o HTML, CSS e JavaScript foi escrito independentemente, para praticar a tradução de um design para código e a separação entre estrutura, estilo e lógica.
 
 ---
 
