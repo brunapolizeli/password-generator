@@ -10,7 +10,7 @@ This repository contains a small web-based password generator that outputs two r
 
 ## Project Overview
 
-This is a solo project from the Scrimba Full Stack Path. A [Figma design](https://www.figma.com/design/NEj9JDycMjF3XKXq7swoc9/Random-Password-Generator--New-version-?node-id=0-1&t=qcjnhnh8hwwarZhX-1) was provided as a layout reference, but the visual design was intentionally modified. All HTML, CSS, and JavaScript were written manually to practice translating a design into code and separating structure, style, and logic.
+This is a project from the Scrimba Full Stack Path. A [Figma design](https://www.figma.com/design/NEj9JDycMjF3XKXq7swoc9/Random-Password-Generator--New-version-?node-id=0-1&t=qcjnhnh8hwwarZhX-1) was provided as a layout reference, but the visual design was intentionally modified. All HTML, CSS, and JavaScript were written independently, to practice translating a design into code and separating structure, style, and logic.
 
 ---
 
